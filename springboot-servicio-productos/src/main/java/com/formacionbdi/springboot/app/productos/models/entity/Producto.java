@@ -1,4 +1,4 @@
-ackage com.formacionbdi.springboot.app.productos.models.entity;
+package com.formacionbdi.springboot.app.productos.models.entity;
 
 import java.io.Serializable;
 import java.util.Date;
