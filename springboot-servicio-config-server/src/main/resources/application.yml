@@ -7,5 +7,6 @@ spring:
     config:
       server:
         git:
-          uri: file:/home/rafa/Documentos/CursoSpringMicroservicios/Github
+          #uri: file:/home/rafa/Documentos/CursoSpringMicroservicios/Github
+          uri: https://github.com/rafacampjurado/CursoMicroservicios.git
           default-label: main
