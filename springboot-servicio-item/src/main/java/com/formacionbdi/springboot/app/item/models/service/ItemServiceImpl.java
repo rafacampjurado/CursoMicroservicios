@@ -13,7 +13,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.formacionbdi.springboot.app.item.models.Producto;
+import com.formacionbdi.app.commons.models.entity.Producto;
 import com.formacionbdi.springboot.app.item.models.Item;
 
 @Service("serviceRestTemplate")
