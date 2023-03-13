@@ -1,4 +1,4 @@
-package com.formacionbdi.springboot.app.usuarios.models.entity;
+package com.formacionbdi.springboot.app.commons.usuarios.models.entity;
 
 import java.io.Serializable;
 import java.util.List;
